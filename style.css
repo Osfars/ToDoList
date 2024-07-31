@@ -48,12 +48,12 @@ button{
     flex: 1;
     border: none;
     outline: none;
-    padding: 16px 30px;
+    padding: 16px 10px;
     background: rgb(219, 125, 36);
     color: #fff;
     font-size: 16px;
     cursor: pointer;
-    border-radius: 40px;
+    border-radius: 60px;
 }
 ul li{
     list-style: none;
